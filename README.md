@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java and data Structure And algorithm**
 
-- 📫 How to reach me **sakshiydv25@gmail.com,**
+- 📫 How to reach me **sakshiydv25@gmail.com**
 
 - 📄 Know about my experiences [https://app.luminpdf.com/viewer/66ab63bb806c2d220fd1c7e3](https://app.luminpdf.com/viewer/66ab63bb806c2d220fd1c7e3)
 
